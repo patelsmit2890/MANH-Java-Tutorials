@@ -1,0 +1,77 @@
+package MultiThread;
+
+/**
+ * @author SmPatel
+ *
+ */
+class Data{
+	private int value;
+	public int getValue(){
+		return value;
+	}
+	public void setValue(int value){
+		this.value=value;
+	}
+}
+class Runner implements Runnable{
+	Data d;
+	Runner() {
+		// TODO Auto-generated constructor stub
+		d=new Data();
+		
+	}
+	
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		Thread currentThread;
+		for(int ctr=0;ctr<20;ctr++)
+		{
+			currentThread=Thread.currentThread();
+			System.out.println(currentThread);
+			if(currentThread.getName().equals("Producer")){
+				synchronized (d) {
+					d.setValue(ctr+1);
+					try {
+						d.wait();
+						d.notify();
+					} catch (InterruptedException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
+				}				
+			}else if(currentThread.getName().equals("Consumer")){
+				synchronized (d) {
+				System.out.println(d.getValue());
+				try {
+					d.notify();
+					d.wait();
+				} catch (InterruptedException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+				}
+			}
+		
+		}
+	}
+}
+public class Synchronization {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub.		
+		Thread mainThread=Thread.currentThread();
+		Thread t1,t2;
+		Runner ro=new Runner();
+		t1=new Thread(ro,"Producer");
+		t2=new Thread(ro,"Consumer");		
+		t1.start();
+		t2.start();
+		System.out.println("Main thread about to die");
+
+	}
+
+}

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app id="WebApp_ID" version="2.4"
+	xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+	<display-name>2014-10-16_Filters</display-name>
+	<servlet>
+		<description>
+		</description>
+		<display-name>FirstServlet</display-name>
+		<servlet-name>FirstServlet</servlet-name>
+		<servlet-class>ma.web.FirstServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<description>
+		</description>
+		<display-name>SecondServlet</display-name>
+		<servlet-name>SecondServlet</servlet-name>
+		<servlet-class>ma.web.SecondServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<description>
+		</description>
+		<display-name>ThirdServlet</display-name>
+		<servlet-name>ThirdServlet</servlet-name>
+		<servlet-class>ma.web.ThirdServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<description>
+		</description>
+		<display-name>NavigServlet</display-name>
+		<servlet-name>NavigServlet</servlet-name>
+		<servlet-class>ma.web.NavigServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>FirstServlet</servlet-name>
+		<url-pattern>/FirstServlet</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>SecondServlet</servlet-name>
+		<url-pattern>/SecondServlet</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>ThirdServlet</servlet-name>
+		<url-pattern>/ThirdServlet</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>NavigServlet</servlet-name>
+		<url-pattern>/NavigServlet</url-pattern>
+	</servlet-mapping>
+	<filter>
+		<description>
+		</description>
+		<display-name>FirstFilter</display-name>
+		<filter-name>FirstFilter</filter-name>
+		<filter-class>util.FirstFilter</filter-class>
+	</filter>
+	<filter>
+		<description>
+		</description>
+		<display-name>SecondFilter</display-name>
+		<filter-name>SecondFilter</filter-name>
+		<filter-class>util.SecondFilter</filter-class>
+	</filter>
+	<filter>
+		<description>
+		</description>
+		<display-name>ThirdFilter</display-name>
+		<filter-name>ThirdFilter</filter-name>
+		<filter-class>util.ThirdFilter</filter-class>
+	</filter>
+
+	<filter-mapping>
+		<filter-name>ThirdFilter</filter-name>
+		<servlet-name>FirstServlet</servlet-name>
+	</filter-mapping>
+	<filter-mapping>
+		<filter-name>SecondFilter</filter-name>
+		<servlet-name>FirstServlet</servlet-name>
+	</filter-mapping>
+	<filter-mapping>
+		<filter-name>FirstFilter</filter-name>
+		<servlet-name>FirstServlet</servlet-name>
+	</filter-mapping>
+	<filter-mapping>
+		<filter-name>SecondFilter</filter-name>
+		<servlet-name>SecondServlet</servlet-name>
+		<dispatcher>FORWARD</dispatcher>
+	</filter-mapping>
+	<filter-mapping>
+		<filter-name>FirstFilter</filter-name>
+		<servlet-name>ThirdServlet</servlet-name>
+	</filter-mapping>
+	<!-- <filter-mapping> <filter-name>FirstFilter</filter-name> <servlet-name>ThirdServlet</servlet-name> 
+		</filter-mapping> <filter-mapping> <filter-name>SecondFilter</filter-name> 
+		<servlet-name>FirstServlet</servlet-name> </filter-mapping> <filter-mapping> 
+		<filter-name>ThirdFilter</filter-name> <servlet-name>FirstServlet</servlet-name> 
+		</filter-mapping> -->
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+</web-app>

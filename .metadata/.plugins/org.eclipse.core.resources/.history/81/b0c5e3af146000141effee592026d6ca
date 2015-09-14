@@ -1,0 +1,53 @@
+package mainpack;
+
+import java.util.Iterator;
+import java.util.List;
+
+import model.entities.Employee;
+
+import org.hibernate.Criteria;
+import org.hibernate.HibernateException;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.cfg.Configuration;
+import org.hibernate.criterion.Restrictions;
+
+public class MainApp1 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		SessionFactory factory=null;
+
+		//Insert
+		try{
+			factory=new Configuration().configure().buildSessionFactory();
+		}catch(Throwable ex){
+			System.err.println("Failed to create Session Factory object: "+ex);
+			throw new ExceptionInInitializerError(ex);
+		}
+		Session session=factory.openSession();
+		Transaction tx=null;
+		Integer employeeID=null;
+
+		try{
+			tx=session.beginTransaction();
+			Employee emp=new Employee("Ganesh","Agarwal",25000,"67858624");
+			employeeID=(Integer)session.save(emp);
+			tx.commit();
+		}catch(HibernateException e){
+			if(tx!=null){
+				tx.rollback();
+			}
+			e.printStackTrace();
+		}finally{
+			session.close();
+		}
+
+	}
+
+}

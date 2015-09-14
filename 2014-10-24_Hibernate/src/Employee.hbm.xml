@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 25 Oct, 2014 12:54:25 PM by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="model.entities.Employee" table="EMPLOYEE">
+    <meta attribute="class-description">
+    This class contains the Employee details 
+    </meta>
+        <id name="eid" type="int" column="eid">
+            <generator class="sequence" >
+            <param name="sequence">EMP_EID_SEQ</param>
+            </generator>
+        </id>
+        <property name="first_name" type="string">
+            <column name="FIRST_NAME" />
+        </property>
+        <property name="last_name" type="string">
+            <column name="LAST_NAME" />
+        </property>
+        <property name="salary" type="int">
+            <column name="SALARY" />
+        </property>
+        <property name="phone" type="string">
+            <column name="PHONE" />
+        </property>
+    </class>
+</hibernate-mapping>

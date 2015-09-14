@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;thiskeyword.MyData&apos; to &apos;MyDate&apos;&#x0D;&#x0A;- Original project: &apos;2014-09-23&apos;&#x0D;&#x0A;- Original element: &apos;thiskeyword.MyData&apos;&#x0D;&#x0A;- Renamed element: &apos;thiskeyword.MyDate&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MyData&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;thiskeyword{MyData.java[MyData" matchStrategy="1" name="MyDate" qualified="false" references="true" similarDeclarations="false" stamp="1411532464504" textual="false" version="1.0"/>
+</session>

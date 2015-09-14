@@ -1,0 +1,62 @@
+package MultiThread;
+
+/**
+ * @author SmPatel
+ *
+ */
+class Data{
+	private int value;
+	public int getValue(){
+		return value;
+	}
+	public void setValue(int value){
+		this.value=value;
+	}
+}
+class Runner implements Runnable{
+	Data d;
+	Runner() {
+		// TODO Auto-generated constructor stub
+		d=new Data();
+		
+	}
+	
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		Thread currentThread;
+		for(int ctr=0;ctr<20;ctr++)
+		{
+			currentThread=Thread.currentThread();
+			System.out.println(currentThread);
+			if(currentThread.getName().equals("Producer")){
+				synchronized (this) {
+					d.setValue(ctr+1);
+				}
+				
+			}else if(currentThread.getName().equals("Consumer")){
+				System.out.println(d.getValue());
+			}
+		
+		}
+	}
+}
+public class Synchronization {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub.		
+		Thread mainThread=Thread.currentThread();
+		Thread t1,t2;
+		Runner ro=new Runner();
+		t1=new Thread(ro,"Producer");
+		t2=new Thread(ro,"Consumer");		
+		t1.start();
+		t2.start();
+		System.out.println("Main thread about to die");
+
+	}
+
+}

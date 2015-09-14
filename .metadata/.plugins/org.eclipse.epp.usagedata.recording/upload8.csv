@@ -1,0 +1,301 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.equinox.event,1.2.100.v20110502,"org.eclipse.equinox.event",1410236884592
+started,bundle,org.eclipse.equinox.p2.core,2.1.1.v20120113-1346,"org.eclipse.equinox.p2.core",1410236884592
+started,bundle,org.eclipse.equinox.p2.directorywatcher,1.0.300.v20110815-1419,"org.eclipse.equinox.p2.directorywatcher",1410236884593
+started,bundle,org.eclipse.equinox.p2.engine,2.1.1.R37x_v20111003,"org.eclipse.equinox.p2.engine",1410236884593
+started,bundle,org.eclipse.equinox.p2.metadata,2.1.0.v20110815-1419,"org.eclipse.equinox.p2.metadata",1410236884593
+started,bundle,org.eclipse.equinox.p2.metadata.repository,1.2.0.v20110815-1419,"org.eclipse.equinox.p2.metadata.repository",1410236884594
+started,bundle,org.eclipse.equinox.p2.operations,2.1.1.R37x_v20111111,"org.eclipse.equinox.p2.operations",1410236884594
+started,bundle,org.eclipse.equinox.p2.reconciler.dropins,1.1.100.v20110815-1419,"org.eclipse.equinox.p2.reconciler.dropins",1410236884595
+started,bundle,org.eclipse.equinox.p2.repository,2.1.1.v20120113-1346,"org.eclipse.equinox.p2.repository",1410236884595
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.100.v20110815-1419,"org.eclipse.equinox.p2.ui.sdk.scheduler",1410236884596
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.200.v20110815-1419,"org.eclipse.equinox.p2.updatechecker",1410236884596
+started,bundle,org.eclipse.equinox.preferences,3.4.2.v20120111-2020,"org.eclipse.equinox.preferences",1410236884597
+started,bundle,org.eclipse.equinox.registry,3.5.101.R37x_v20110810-1611,"org.eclipse.equinox.registry",1410236884597
+started,bundle,org.eclipse.equinox.security,1.1.1.R37x_v20110822-1018,"org.eclipse.equinox.security",1410236884649
+started,bundle,org.eclipse.equinox.util,1.0.300.v20110502,"org.eclipse.equinox.util",1410236884650
+started,bundle,org.eclipse.help,3.5.100.v20110426,"org.eclipse.help",1410236884651
+started,bundle,org.eclipse.jdt.apt.core,3.3.500.v20110420-1015,"org.eclipse.jdt.apt.core",1410236884652
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.400.v20110305-1450,"org.eclipse.jdt.apt.pluggable.core",1410236884652
+started,bundle,org.eclipse.jdt.core.manipulation,1.4.0.v20110928-1453,"org.eclipse.jdt.core.manipulation",1410236884653
+started,bundle,org.eclipse.jdt.debug,3.7.1.v20111006_r372,"org.eclipse.jdt.debug",1410236884660
+started,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui",1410236884660
+started,bundle,org.eclipse.jdt.launching,3.6.1.v20111006_r372,"org.eclipse.jdt.launching",1410236884660
+started,bundle,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui",1410236884660
+started,bundle,org.eclipse.jface,3.7.0.v20110928-1505,"org.eclipse.jface",1410236884661
+started,bundle,org.eclipse.jsch.core,1.1.300.I20110514-0800,"org.eclipse.jsch.core",1410236884662
+started,bundle,org.eclipse.jst.ws.jaxws.utils,1.0.100.v201201031437,"org.eclipse.jst.ws.jaxws.utils",1410236884663
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.201.r372_v20111101-0700,"org.eclipse.ltk.core.refactoring",1410236884664
+started,bundle,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring",1410236884664
+started,bundle,org.eclipse.pde.launching,3.6.0.v20110506,"org.eclipse.pde.launching",1410236884665
+started,bundle,org.eclipse.pde.ui,3.6.100.v20120103_r372,"org.eclipse.pde.ui",1410236884667
+started,bundle,org.eclipse.search,3.7.0.v20110928-1504,"org.eclipse.search",1410236884668
+started,bundle,org.eclipse.team.core,3.6.0.I20110525-0800,"org.eclipse.team.core",1410236884669
+started,bundle,org.eclipse.team.cvs.core,3.3.400.I20110510-0800,"org.eclipse.team.cvs.core",1410236884669
+started,bundle,org.eclipse.team.cvs.ui,3.3.401.v20120126-1227,"org.eclipse.team.cvs.ui",1410236884671
+started,bundle,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui",1410236884672
+started,bundle,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui",1410236884673
+started,bundle,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console",1410236884674
+started,bundle,org.eclipse.ui.editors,3.7.0.v20110928-1504,"org.eclipse.ui.editors",1410236884674
+started,bundle,org.eclipse.ui.forms,3.5.101.v20111011-1919,"org.eclipse.ui.forms",1410236884675
+started,bundle,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.ide",1410236884677
+started,bundle,org.eclipse.ui.net,1.2.100.v20111208-1155,"org.eclipse.ui.net",1410236884677
+started,bundle,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views",1410236884678
+started,bundle,org.eclipse.ui.views.log,1.0.200.v20110404,"org.eclipse.ui.views.log",1410236884678
+started,bundle,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"org.eclipse.ui.workbench",1410236884679
+started,bundle,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.workbench.texteditor",1410236884680
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1410236884681
+started,bundle,org.eclipse.update.core,3.2.500.v20110330,"org.eclipse.update.core",1410236884684
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1410236884684
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.201.v201201101553,"org.eclipse.wst.common.project.facet.core",1410236884685
+started,bundle,org.eclipse.wst.web,1.1.501.v201201190400,"org.eclipse.wst.web",1410236884685
+started,bundle,org.codehaus.groovy,2.3.4.xx-201407151439-e37-RELEASE,"org.codehaus.groovy",1410236884688
+started,bundle,org.codehaus.groovy.eclipse.codebrowsing,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.codebrowsing",1410236884688
+started,bundle,org.codehaus.groovy.eclipse.compilerResolver,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.compilerResolver",1410236884688
+started,bundle,org.codehaus.groovy.eclipse.core,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.core",1410236884689
+started,bundle,org.codehaus.groovy.eclipse.dsl,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.dsl",1410236884689
+started,bundle,org.codehaus.groovy.eclipse.quickfix,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.quickfix",1410236884690
+started,bundle,org.codehaus.groovy.eclipse.refactoring,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.refactoring",1410236884690
+started,bundle,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.ui",1410236884690
+started,bundle,org.eclipse.jdt.core,3.7.3.xx-201407151439-e37-RELEASE,"org.eclipse.jdt.core",1410236884691
+started,bundle,org.eclipse.jdt.groovy.core,2.9.0.xx-201407151439-e37-RELEASE,"org.eclipse.jdt.groovy.core",1410236884691
+started,bundle,org.codehaus.groovy.eclipse.tests,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.tests",1410236884694
+started,bundle,org.eclipse.egit.core,1.3.0.201202151440-r,"org.eclipse.egit.core",1410236884695
+started,bundle,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui",1410236884696
+started,bundle,org.eclipse.jgit,1.3.0.201202151440-r,"org.eclipse.jgit",1410236884697
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.8.4.v20130429-0100,"org.eclipse.mylyn.bugzilla.core",1410236884697
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.8.4.v20130429-0100,"org.eclipse.mylyn.bugzilla.ui",1410236884698
+started,bundle,org.eclipse.mylyn.commons.core,3.8.4.v20130429-0100,"org.eclipse.mylyn.commons.core",1410236884698
+started,bundle,org.eclipse.mylyn.commons.net,3.8.4.v20130429-0100,"org.eclipse.mylyn.commons.net",1410236884698
+started,bundle,org.eclipse.mylyn.commons.notifications.core,1.0.4.v20130429-0100,"org.eclipse.mylyn.commons.notifications.core",1410236884699
+started,bundle,org.eclipse.mylyn.commons.notifications.feed,1.0.4.v20130429-0100,"org.eclipse.mylyn.commons.notifications.feed",1410236884699
+started,bundle,org.eclipse.mylyn.commons.notifications.ui,1.0.4.v20130429-0100,"org.eclipse.mylyn.commons.notifications.ui",1410236884699
+started,bundle,org.eclipse.mylyn.commons.ui,3.8.4.v20130429-0100,"org.eclipse.mylyn.commons.ui",1410236884700
+started,bundle,org.eclipse.mylyn.commons.workbench,3.8.4.v20130429-0100,"org.eclipse.mylyn.commons.workbench",1410236884700
+started,bundle,org.eclipse.mylyn.context.core,3.8.4.v20130429-0100,"org.eclipse.mylyn.context.core",1410236884700
+started,bundle,org.eclipse.mylyn.context.tasks.ui,3.8.4.v20130429-0100,"org.eclipse.mylyn.context.tasks.ui",1410236884701
+started,bundle,org.eclipse.mylyn.github.ui,1.3.0.201202151440-r,"org.eclipse.mylyn.github.ui",1410236884702
+started,bundle,org.eclipse.mylyn.monitor.ui,3.8.4.v20130429-0100,"org.eclipse.mylyn.monitor.ui",1410236884702
+started,bundle,org.eclipse.mylyn.tasks.index.core,3.8.4.v20130429-0100,"org.eclipse.mylyn.tasks.index.core",1410236884703
+started,bundle,org.eclipse.mylyn.tasks.ui,3.8.4.v20130429-0100,"org.eclipse.mylyn.tasks.ui",1410236884704
+started,bundle,org.eclipse.mylyn.team.ui,3.8.4.v20130429-0100,"org.eclipse.mylyn.team.ui",1410236884705
+os,sysinfo,,,"win32",1410236884707
+arch,sysinfo,,,"x86_64",1410236884707
+ws,sysinfo,,,"win32",1410236884707
+locale,sysinfo,,,"en_US",1410236884707
+processors,sysinfo,,,"8",1410236884707
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1410236884707
+java.runtime.version,sysinfo,,,"1.7.0_67-b01",1410236884707
+java.specification.name,sysinfo,,,"Java Platform API Specification",1410236884707
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1410236884707
+java.specification.version,sysinfo,,,"1.7",1410236884707
+java.vendor,sysinfo,,,"Oracle Corporation",1410236884707
+java.version,sysinfo,,,"1.7.0_67",1410236884707
+java.vm.info,sysinfo,,,"mixed mode",1410236884707
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1410236884707
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1410236884707
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1410236884707
+java.vm.specification.version,sysinfo,,,"1.7",1410236884707
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1410236884707
+java.vm.version,sysinfo,,,"24.65-b04",1410236884707
+started,bundle,org.eclipse.epp.usagedata.ui,1.3.1.R201106061540,"org.eclipse.epp.usagedata.ui",1410236885789
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410236886045
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410236888532
+opened,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ProblemView",1410236889367
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1410236889840
+activated,editor,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.editor.GroovyEditor",1410236893960
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1410236896651
+activated,editor,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.editor.GroovyEditor",1410236897750
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1410236899382
+started,bundle,org.eclipse.compare,3.5.202.R37x_v20111109-0800,"org.eclipse.compare",1410236899623
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1410236901271
+error,log,,,"Unhandled event loop exception",1410236901943
+error,log,,,"Unhandled event loop exception",1410236902285
+started,bundle,org.eclipse.wst.server.core,1.1.304.v20120208_1420,"org.eclipse.wst.server.core",1410236904295
+started,bundle,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui",1410236904308
+activated,editor,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.editor.GroovyEditor",1410236905238
+executed,command,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.groovyScriptLaunchShortcut.run",1410236909479
+error,log,,,"Unhandled event loop exception",1410236912202
+error,log,,,"Unhandled event loop exception",1410237001297
+error,log,,,"Unhandled event loop exception",1410237036743
+error,log,,,"Unhandled event loop exception",1410237040688
+error,log,,,"Unhandled event loop exception",1410237040941
+executed,command,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.groovyScriptLaunchShortcut.run",1410237045899
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410237045906
+started,bundle,org.eclipse.wst.common.frameworks,1.2.102.v201201190400,"org.eclipse.wst.common.frameworks",1410237046084
+started,bundle,org.eclipse.emf.common,2.7.0.v20120127-1122,"org.eclipse.emf.common",1410237046091
+started,bundle,org.eclipse.emf.ecore,2.7.0.v20120127-1122,"org.eclipse.emf.ecore",1410237046150
+started,bundle,org.eclipse.wst.common.emf,1.2.100.v201101101900,"org.eclipse.wst.common.emf",1410237046156
+started,bundle,org.eclipse.jem.util,2.1.100.v201103021400,"org.eclipse.jem.util",1410237046165
+started,bundle,org.eclipse.emf.ecore.xmi,2.7.0.v20120127-1122,"org.eclipse.emf.ecore.xmi",1410237046171
+started,bundle,org.eclipse.wst.common.emfworkbench.integration,1.2.101.v201107140600,"org.eclipse.wst.common.emfworkbench.integration",1410237046172
+started,bundle,org.eclipse.wst.common.core,1.2.0.v200908252030,"org.eclipse.wst.common.core",1410237046198
+started,bundle,org.eclipse.wst.common.modulecore,1.2.103.v201201190400,"org.eclipse.wst.common.modulecore",1410237046200
+started,bundle,org.eclipse.jst.common.project.facet.core,1.4.200.v201103170302,"org.eclipse.jst.common.project.facet.core",1410237046231
+started,bundle,org.eclipse.jst.ws.jaxrs.core,1.0.301.v201108240656,"org.eclipse.jst.ws.jaxrs.core",1410237046235
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410237046368
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410237211783
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410237583262
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410237584331
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410237727732
+error,log,,,"Unhandled event loop exception",1410237729468
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410237730695
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410237760697
+error,log,,,"Unhandled event loop exception",1410237763717
+error,log,,,"Unhandled event loop exception",1410237764887
+error,log,,,"Unhandled event loop exception",1410237765032
+error,log,,,"Unhandled event loop exception",1410237766251
+error,log,,,"Unhandled event loop exception",1410237767416
+error,log,,,"Unhandled event loop exception",1410237767592
+error,log,,,"Unhandled event loop exception",1410237769646
+error,log,,,"Unhandled event loop exception",1410237769672
+error,log,,,"Unhandled event loop exception",1410237771178
+error,log,,,"Unhandled event loop exception",1410237771205
+error,log,,,"Unhandled event loop exception",1410237772377
+error,log,,,"Unhandled event loop exception",1410237772772
+error,log,,,"Unhandled event loop exception",1410237773239
+error,log,,,"Unhandled event loop exception",1410237775235
+error,log,,,"Unhandled event loop exception",1410237776328
+error,log,,,"Unhandled event loop exception",1410237776545
+error,log,,,"Unhandled event loop exception",1410237777734
+error,log,,,"Unhandled event loop exception",1410237777876
+error,log,,,"Unhandled event loop exception",1410237779388
+error,log,,,"Unhandled event loop exception",1410237779926
+error,log,,,"Unhandled event loop exception",1410237780832
+error,log,,,"Unhandled event loop exception",1410237780972
+error,log,,,"Unhandled event loop exception",1410237782956
+error,log,,,"Unhandled event loop exception",1410237782995
+error,log,,,"Unhandled event loop exception",1410237784051
+error,log,,,"Unhandled event loop exception",1410237784572
+error,log,,,"Unhandled event loop exception",1410237785572
+error,log,,,"Unhandled event loop exception",1410237787113
+error,log,,,"Unhandled event loop exception",1410237787126
+error,log,,,"Unhandled event loop exception",1410237788816
+error,log,,,"Unhandled event loop exception",1410237789170
+error,log,,,"Unhandled event loop exception",1410237790945
+error,log,,,"Unhandled event loop exception",1410237791725
+error,log,,,"Unhandled event loop exception",1410237791733
+error,log,,,"Unhandled event loop exception",1410237793619
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110928-1453,"org.eclipse.jdt.junit",1410237793796
+error,log,,,"Unhandled event loop exception",1410237793813
+error,log,,,"Unhandled event loop exception",1410237795237
+error,log,,,"Unhandled event loop exception",1410237795335
+started,bundle,org.eclipse.jpt.jaxb.ui,1.1.2.v201201260000,"org.eclipse.jpt.jaxb.ui",1410237800820
+started,bundle,org.eclipse.jpt.jpa.ui,3.0.2.v201201243020,"org.eclipse.jpt.jpa.ui",1410237800839
+started,bundle,org.eclipse.jpt.common.core,1.0.2.v201111103010,"org.eclipse.jpt.common.core",1410237800847
+started,bundle,org.eclipse.jpt.jpa.core,3.0.2.v201201243020,"org.eclipse.jpt.jpa.core",1410237800850
+started,bundle,org.eclipse.jst.ws.jaxws.ui,1.0.100.v201104032053,"org.eclipse.jst.ws.jaxws.ui",1410237800864
+started,bundle,org.eclipse.pde.api.tools,1.0.301.v20111129-2053,"org.eclipse.pde.api.tools",1410237800887
+started,bundle,org.eclipse.pde.api.tools.ui,1.0.301.v20110803_r371,"org.eclipse.pde.api.tools.ui",1410237800888
+started,bundle,org.codehaus.groovy.eclipse.codeassist.completion,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.codeassist.completion",1410237800893
+started,bundle,org.eclipse.jpt.jaxb.core,1.0.2.v201111103010,"org.eclipse.jpt.jaxb.core",1410237801017
+error,log,,,"Unhandled event loop exception",1410237801415
+error,log,,,"Unhandled event loop exception",1410237801423
+error,log,,,"Unhandled event loop exception",1410237807076
+error,log,,,"Unhandled event loop exception",1410237807384
+error,log,,,"Unhandled event loop exception",1410237808649
+error,log,,,"Unhandled event loop exception",1410237808928
+error,log,,,"Unhandled event loop exception",1410237811064
+error,log,,,"Unhandled event loop exception",1410237811480
+error,log,,,"Unhandled event loop exception",1410237813680
+error,log,,,"Unhandled event loop exception",1410237814036
+error,log,,,"Unhandled event loop exception",1410237816396
+error,log,,,"Unhandled event loop exception",1410237817972
+error,log,,,"Unhandled event loop exception",1410237818119
+error,log,,,"Unhandled event loop exception",1410237820659
+error,log,,,"Unhandled event loop exception",1410237820723
+error,log,,,"Unhandled event loop exception",1410237821946
+error,log,,,"Unhandled event loop exception",1410237822204
+error,log,,,"Unhandled event loop exception",1410237823095
+error,log,,,"Unhandled event loop exception",1410237823239
+error,log,,,"Unhandled event loop exception",1410237824784
+error,log,,,"Unhandled event loop exception",1410237825090
+error,log,,,"Unhandled event loop exception",1410237827182
+error,log,,,"Unhandled event loop exception",1410237828554
+error,log,,,"Unhandled event loop exception",1410237830496
+error,log,,,"Unhandled event loop exception",1410237832168
+error,log,,,"Unhandled event loop exception",1410237832341
+error,log,,,"Unhandled event loop exception",1410237833670
+error,log,,,"Unhandled event loop exception",1410237834882
+error,log,,,"Unhandled event loop exception",1410237834949
+executed,command,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.groovyScriptLaunchShortcut.run",1410237842969
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410237842974
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410237843268
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1410237848288
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410237865947
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410237889481
+activated,editor,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.editor.GroovyEditor",1410237895543
+error,log,,,"Unhandled event loop exception",1410237896108
+error,log,,,"Unhandled event loop exception",1410237909417
+error,log,,,"Unhandled event loop exception",1410237911432
+error,log,,,"Unhandled event loop exception",1410237911526
+error,log,,,"Unhandled event loop exception",1410237912795
+error,log,,,"Unhandled event loop exception",1410237912978
+error,log,,,"Unhandled event loop exception",1410237913709
+error,log,,,"Unhandled event loop exception",1410237915004
+error,log,,,"Unhandled event loop exception",1410237915024
+error,log,,,"Unhandled event loop exception",1410237916926
+error,log,,,"Unhandled event loop exception",1410237917063
+error,log,,,"Unhandled event loop exception",1410237919357
+error,log,,,"Unhandled event loop exception",1410237919600
+error,log,,,"Unhandled event loop exception",1410237922782
+error,log,,,"Unhandled event loop exception",1410237923139
+error,log,,,"Unhandled event loop exception",1410237924649
+error,log,,,"Unhandled event loop exception",1410237924670
+error,log,,,"Unhandled event loop exception",1410237926057
+error,log,,,"Unhandled event loop exception",1410237926226
+error,log,,,"Unhandled event loop exception",1410237927307
+error,log,,,"Unhandled event loop exception",1410237928373
+error,log,,,"Unhandled event loop exception",1410237928826
+error,log,,,"Unhandled event loop exception",1410237930481
+error,log,,,"Unhandled event loop exception",1410237931721
+error,log,,,"Unhandled event loop exception",1410237931855
+error,log,,,"Unhandled event loop exception",1410237932995
+error,log,,,"Unhandled event loop exception",1410237933399
+error,log,,,"Unhandled event loop exception",1410237934354
+error,log,,,"Unhandled event loop exception",1410237934419
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410237935564
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410237936964
+error,log,,,"Unhandled event loop exception",1410237939642
+error,log,,,"Unhandled event loop exception",1410237940328
+error,log,,,"Unhandled event loop exception",1410237940461
+error,log,,,"Unhandled event loop exception",1410237942470
+error,log,,,"Unhandled event loop exception",1410237942991
+error,log,,,"Unhandled event loop exception",1410237944559
+error,log,,,"Unhandled event loop exception",1410237944564
+error,log,,,"Unhandled event loop exception",1410237947610
+error,log,,,"Unhandled event loop exception",1410237948564
+error,log,,,"Unhandled event loop exception",1410237948615
+error,log,,,"Unhandled event loop exception",1410237950494
+error,log,,,"Unhandled event loop exception",1410237955334
+error,log,,,"Unhandled event loop exception",1410237956146
+error,log,,,"Unhandled event loop exception",1410237956180
+error,log,,,"Unhandled event loop exception",1410237958808
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410237960184
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410237999752
+error,log,,,"Unhandled event loop exception",1410238003962
+error,log,,,"Unhandled event loop exception",1410238004179
+error,log,,,"Unhandled event loop exception",1410238004954
+error,log,,,"Unhandled event loop exception",1410238005236
+error,log,,,"Unhandled event loop exception",1410238005902
+error,log,,,"Unhandled event loop exception",1410238006281
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238007152
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238008767
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238016048
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238017503
+executed,command,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.groovyScriptLaunchShortcut.run",1410238020263
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238020267
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238020538
+error,log,,,"Unhandled event loop exception",1410238029511
+error,log,,,"Unhandled event loop exception",1410238030423
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1410238031268
+error,log,,,"Unhandled event loop exception",1410238031821
+error,log,,,"Unhandled event loop exception",1410238031827
+error,log,,,"Unhandled event loop exception",1410238031830
+error,log,,,"Unhandled event loop exception",1410238031988
+executed,command,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.groovyScriptLaunchShortcut.run",1410238035057
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238035061
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238035221
+error,log,,,"Unhandled event loop exception",1410238039655
+error,log,,,"Unhandled event loop exception",1410238040688
+error,log,,,"Unhandled event loop exception",1410238041445

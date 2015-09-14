@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Assignment[Classes and Objects]&apos; to &apos;Assignment-1[Classes and Objects]&apos;&#x0D;&#x0A;- Original element: &apos;Assignment[Classes and Objects]&apos;&#x0D;&#x0A;- Renamed element: &apos;Assignment[Classes and Objects]&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Assignment[Classes and Objects]&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Assignment\[Classes and Objects\]" name="Assignment-1[Classes and Objects]" references="true" stamp="1412273798803" version="1.0"/>
+</session>

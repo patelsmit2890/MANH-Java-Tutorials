@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="true" key="J2EE_EXPORT_OVERWRITE"/>
+	<item value="false" key="J2EE_EXPORT_SOURCE"/>
+	<list key="J2EE_EXPORT_JST_WEB">
+		<item value="C:\Users\smpatel\Downloads\MA Classes\TomcatServer\jboss-5.0.0.GA\server\default\deploy\2014-10-23_JSF.war"/>
+		<item value="C:\Users\smpatel\Downloads\MA Classes\TomcatServer\jboss-5.0.0.GA\server\default\deploy\SSO.war"/>
+		<item value="C:\Users\smpatel\Downloads\MA Classes\TomcatServer\jboss-5.0.0.GA\server\default\deploy\2014-10-16_Filters.war"/>
+		<item value="C:\Users\smpatel\Downloads\MA Classes\TomcatServer\jboss-5.0.0.GA\server\default\deploy\2014-10-10_MVC.war"/>
+		<item value="C:\Users\smpatel\Downloads\MA Classes\TomcatServer\jboss-5.0.0.GA\server\default\deploy\ROOT.war\2014-10-10_SessionManagement.war"/>
+		<item value="C:\Users\smpatel\Downloads\MA Classes\TomcatServer\apache-tomcat-6.0.41\webapps\2014-10-10_MVC.war"/>
+	</list>
+	<list key="MRU_RUNTIME_STORE">
+		<item value="JBoss v5.0"/>
+		<item value="Apache Tomcat v6.0"/>
+		<item value="NULL_RUNTIME"/>
+	</list>
+</section>

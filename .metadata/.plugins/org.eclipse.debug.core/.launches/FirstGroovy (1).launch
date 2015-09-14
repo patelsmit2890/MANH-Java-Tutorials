@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.codehaus.groovy.eclipse.groovyConsoleLaunchConfiguration">
+<stringAttribute key="org.codehaus.groovy.eclipse.launch.runType" value="FirstGroovy.FirstGroovy"/>
+<listAttribute key="org.eclipse.jdt.launching.CLASSPATH">
+<listEntry value="C:\Users\smpatel\workspace\FirstDemo\bin"/>
+<listEntry value="C:\Users\smpatel\Downloads\Eclipse and Groovy\Eclipse\eclipse\plugins\org.codehaus.groovy_2.3.4.xx-201407151439-e37-RELEASE\lib\groovy-all-2.3.4.jar"/>
+<listEntry value="C:\Users\smpatel\Downloads\Eclipse and Groovy\Eclipse\eclipse\plugins\org.codehaus.groovy_2.3.4.xx-201407151439-e37-RELEASE\lib\bsf-2.4.0.jar"/>
+<listEntry value="C:\Users\smpatel\Downloads\Eclipse and Groovy\Eclipse\eclipse\plugins\org.codehaus.groovy_2.3.4.xx-201407151439-e37-RELEASE\lib\ivy-2.3.0-sources.jar"/>
+<listEntry value="C:\Users\smpatel\Downloads\Eclipse and Groovy\Eclipse\eclipse\plugins\org.codehaus.groovy_2.3.4.xx-201407151439-e37-RELEASE\lib\ivy-2.3.0.jar"/>
+<listEntry value="C:\Users\smpatel\Downloads\Eclipse and Groovy\Eclipse\eclipse\plugins\org.codehaus.groovy_2.3.4.xx-201407151439-e37-RELEASE\lib\servlet-api-2.4.jar"/>
+<listEntry value="C:\Users\smpatel\.groovy\greclipse\global_dsld_support"/>
+<listEntry value="C:\Users\smpatel\Downloads\Eclipse and Groovy\Eclipse\eclipse\plugins\org.codehaus.groovy_2.3.4.xx-201407151439-e37-RELEASE\plugin_dsld_support\"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.codehaus.groovy.tools.GroovyStarter"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="--classpath &quot;${workspace_loc:\FirstDemo}\src;${workspace_loc:\FirstDemo}\bin&quot; --main groovy.ui.Console &quot;${resource_loc:/FirstDemo/src/FirstGroovy/FirstGroovy.groovy}&quot;"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="FirstDemo"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value=" -Dgroovy.home=&quot;${groovy_home}&quot;"/>
+<stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="${workspace_loc:\FirstDemo}"/>
+</launchConfiguration>

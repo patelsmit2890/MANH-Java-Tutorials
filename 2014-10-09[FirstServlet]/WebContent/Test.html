@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+
+</head>
+<body>
+	<!-- <a href="fservlet?uname=Manhattan">Click</a> -->
+	<form action="fservlet" method="post" name="form">
+		<table border="1">
+			<tr>
+				<td>Name:</td>
+				<td><input type="text" name="uname" onblur="f()"></input></td>
+			</tr>
+			<tr>
+				<td>Email:</td>
+				<td><input type="text" name="email"></input></td>
+			</tr>
+			<tr>
+				<td>City:</td>
+				<td><select name="city">
+						<option value="Ahmedabad">Ahmedabad</option>
+						<option value="Bangalore">Bangalore</option>
+						<option value="Chennai">Chennai</option>
+						<option value="Mumbai">Mumbai</option>
+				</select></td>
+			</tr>
+			<tr>
+				<td>Hobby:</td>
+				<td><input type="checkbox" name="sports" value="Cricket">Cricket
+					<input type="checkbox" name="sports" value="Football">Football
+				</td>
+			</tr>
+			<tr>
+				<td>Website:</td>
+				<td><input type="text" name="website"></input></td>
+			</tr>
+			<tr>
+				<td>Comment:</td>
+				<td><textarea name="comment" rows="5" cols="40"></textarea></td>
+			</tr>
+			<tr>
+
+				<td>Gender :</td>
+				<td><input type="radio" name="sex" value="male">Male</input> <input
+					type="radio" name="sex" value="female">Female</input></td>
+			</tr>
+			<tr>
+
+				<td colspan="2" align="center"><input type="submit"
+					value="Login"></input></td>
+			</tr>
+		</table>
+
+	</form>
+</body>
+</html>

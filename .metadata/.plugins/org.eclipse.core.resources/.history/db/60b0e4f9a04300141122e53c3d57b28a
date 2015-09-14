@@ -1,0 +1,15 @@
+package xyzxyz;
+
+
+import org.junit.Test;
+
+import junit.framework.TestCase;
+
+public class xyz extends TestCase {
+
+	@Test
+	public void testSum() {
+		fail("Not yet implemented");
+	}
+
+}

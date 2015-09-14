@@ -1,0 +1,376 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Unhandled event loop exception",1410238042228
+error,log,,,"Unhandled event loop exception",1410238042463
+executed,command,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.groovyScriptLaunchShortcut.run",1410238046088
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238046107
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238046337
+error,log,,,"Unhandled event loop exception",1410238054798
+error,log,,,"Unhandled event loop exception",1410238060059
+error,log,,,"Unhandled event loop exception",1410238060155
+error,log,,,"Unhandled event loop exception",1410238061098
+error,log,,,"Unhandled event loop exception",1410238061116
+error,log,,,"Unhandled event loop exception",1410238062644
+error,log,,,"Unhandled event loop exception",1410238064476
+error,log,,,"Unhandled event loop exception",1410238067493
+error,log,,,"Unhandled event loop exception",1410238068171
+error,log,,,"Unhandled event loop exception",1410238068183
+error,log,,,"Unhandled event loop exception",1410238069215
+error,log,,,"Unhandled event loop exception",1410238069230
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1410238072826
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238076830
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238078431
+executed,command,org.eclipse.mylyn.tasks.ui,3.8.4.v20130429-0100,"org.eclipse.mylyn.tasks.ui.command.activateTask",1410238078442
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238081481
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238084392
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.DebugLast",1410238084462
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238084469
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238084857
+error,log,,,"Unhandled event loop exception",1410238089950
+error,log,,,"Unhandled event loop exception",1410238093794
+error,log,,,"Unhandled event loop exception",1410238094731
+error,log,,,"Unhandled event loop exception",1410238096064
+error,log,,,"Unhandled event loop exception",1410238099802
+error,log,,,"Unhandled event loop exception",1410238099836
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238106471
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238107369
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.DebugLast",1410238107433
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238107447
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238107816
+error,log,,,"Unhandled event loop exception",1410238109573
+error,log,,,"Unhandled event loop exception",1410238111945
+error,log,,,"Unhandled event loop exception",1410238112849
+error,log,,,"Unhandled event loop exception",1410238112928
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238115461
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238116698
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.DebugLast",1410238116794
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238116807
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238117056
+error,log,,,"Unhandled event loop exception",1410238120950
+error,log,,,"Unhandled event loop exception",1410238120957
+error,log,,,"Unhandled event loop exception",1410238121632
+error,log,,,"Unhandled event loop exception",1410238124738
+error,log,,,"Unhandled event loop exception",1410238125611
+error,log,,,"Unhandled event loop exception",1410238126602
+error,log,,,"Unhandled event loop exception",1410238127000
+error,log,,,"Unhandled event loop exception",1410238130347
+error,log,,,"Unhandled event loop exception",1410238130518
+error,log,,,"Unhandled event loop exception",1410238131572
+error,log,,,"Unhandled event loop exception",1410238131593
+error,log,,,"Unhandled event loop exception",1410238132352
+error,log,,,"Unhandled event loop exception",1410238132598
+error,log,,,"Unhandled event loop exception",1410238135342
+error,log,,,"Unhandled event loop exception",1410238135643
+error,log,,,"Unhandled event loop exception",1410238139180
+error,log,,,"Unhandled event loop exception",1410238139194
+error,log,,,"Unhandled event loop exception",1410238141415
+error,log,,,"Unhandled event loop exception",1410238142166
+error,log,,,"Unhandled event loop exception",1410238142233
+error,log,,,"Unhandled event loop exception",1410238147527
+error,log,,,"Unhandled event loop exception",1410238149283
+error,log,,,"Unhandled event loop exception",1410238149477
+error,log,,,"Unhandled event loop exception",1410238150803
+error,log,,,"Unhandled event loop exception",1410238150820
+error,log,,,"Unhandled event loop exception",1410238152232
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1410238152977
+error,log,,,"Unhandled event loop exception",1410238152995
+error,log,,,"Unhandled event loop exception",1410238153642
+error,log,,,"Unhandled event loop exception",1410238157250
+error,log,,,"Unhandled event loop exception",1410238157398
+error,log,,,"Unhandled event loop exception",1410238158370
+error,log,,,"Unhandled event loop exception",1410238158421
+error,log,,,"Unhandled event loop exception",1410238159377
+error,log,,,"Unhandled event loop exception",1410238159469
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238162654
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238163612
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.DebugLast",1410238163688
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238163692
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238164048
+error,log,,,"Unhandled event loop exception",1410238169896
+error,log,,,"Unhandled event loop exception",1410238170957
+error,log,,,"Unhandled event loop exception",1410238171515
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238171989
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238173327
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.DebugLast",1410238173393
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238173404
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238173482
+error,log,,,"Unhandled event loop exception",1410238174116
+error,log,,,"Unhandled event loop exception",1410238179336
+error,log,,,"Unhandled event loop exception",1410238187662
+error,log,,,"Unhandled event loop exception",1410238188740
+error,log,,,"Unhandled event loop exception",1410238191079
+error,log,,,"Unhandled event loop exception",1410238191800
+error,log,,,"Unhandled event loop exception",1410238201937
+error,log,,,"Unhandled event loop exception",1410238204052
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238211935
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238212901
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.DebugLast",1410238212961
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238212968
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238213340
+error,log,,,"Unhandled event loop exception",1410238218110
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238219849
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238220854
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.DebugLast",1410238220912
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238220923
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238221261
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238223522
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238252962
+error,log,,,"Unhandled event loop exception",1410238256239
+error,log,,,"Unhandled event loop exception",1410238256867
+error,log,,,"Unhandled event loop exception",1410238258379
+error,log,,,"Unhandled event loop exception",1410238258677
+error,log,,,"Unhandled event loop exception",1410238260918
+error,log,,,"Unhandled event loop exception",1410238264819
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1410238265091
+error,log,,,"Unhandled event loop exception",1410238266066
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1410238266615
+error,log,,,"Unhandled event loop exception",1410238267211
+error,log,,,"Unhandled event loop exception",1410238267344
+error,log,,,"Unhandled event loop exception",1410238269231
+error,log,,,"Unhandled event loop exception",1410238270695
+error,log,,,"Unhandled event loop exception",1410238270738
+executed,command,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.groovyScriptLaunchShortcut.run",1410238277146
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238277161
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238277419
+error,log,,,"Unhandled event loop exception",1410238282288
+error,log,,,"Unhandled event loop exception",1410238283328
+error,log,,,"Unhandled event loop exception",1410238284356
+error,log,,,"Unhandled event loop exception",1410238285407
+error,log,,,"Unhandled event loop exception",1410238286468
+error,log,,,"Unhandled event loop exception",1410238287078
+error,log,,,"Unhandled event loop exception",1410238287902
+error,log,,,"Unhandled event loop exception",1410238290213
+error,log,,,"Unhandled event loop exception",1410238296148
+error,log,,,"Unhandled event loop exception",1410238300439
+error,log,,,"Unhandled event loop exception",1410238300460
+error,log,,,"Unhandled event loop exception",1410238301680
+error,log,,,"Unhandled event loop exception",1410238302903
+error,log,,,"Unhandled event loop exception",1410238303013
+error,log,,,"Unhandled event loop exception",1410238304545
+error,log,,,"Unhandled event loop exception",1410238304611
+error,log,,,"Unhandled event loop exception",1410238305499
+error,log,,,"Unhandled event loop exception",1410238306936
+error,log,,,"Unhandled event loop exception",1410238307061
+executed,command,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.groovyScriptLaunchShortcut.run",1410238309838
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238309852
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238309999
+error,log,,,"Unhandled event loop exception",1410238315188
+error,log,,,"Unhandled event loop exception",1410238316700
+error,log,,,"Unhandled event loop exception",1410238318105
+error,log,,,"Unhandled event loop exception",1410238331129
+error,log,,,"Unhandled event loop exception",1410238332495
+error,log,,,"Unhandled event loop exception",1410238333607
+error,log,,,"Unhandled event loop exception",1410238333618
+error,log,,,"Unhandled event loop exception",1410238336149
+error,log,,,"Unhandled event loop exception",1410238336175
+error,log,,,"Unhandled event loop exception",1410238337716
+error,log,,,"Unhandled event loop exception",1410238337721
+error,log,,,"Unhandled event loop exception",1410238338438
+error,log,,,"Unhandled event loop exception",1410238338753
+error,log,,,"Unhandled event loop exception",1410238339466
+error,log,,,"Unhandled event loop exception",1410238340064
+error,log,,,"Unhandled event loop exception",1410238341255
+error,log,,,"Unhandled event loop exception",1410238341291
+error,log,,,"Unhandled event loop exception",1410238343643
+error,log,,,"Unhandled event loop exception",1410238343829
+error,log,,,"Unhandled event loop exception",1410238345190
+error,log,,,"Unhandled event loop exception",1410238345887
+error,log,,,"Unhandled event loop exception",1410238346057
+error,log,,,"Unhandled event loop exception",1410238347316
+error,log,,,"Unhandled event loop exception",1410238347426
+error,log,,,"Unhandled event loop exception",1410238348477
+error,log,,,"Unhandled event loop exception",1410238348485
+error,log,,,"Unhandled event loop exception",1410238350001
+error,log,,,"Unhandled event loop exception",1410238350033
+error,log,,,"Unhandled event loop exception",1410238351085
+error,log,,,"Unhandled event loop exception",1410238351122
+error,log,,,"Unhandled event loop exception",1410238352955
+error,log,,,"Unhandled event loop exception",1410238353630
+error,log,,,"Unhandled event loop exception",1410238355674
+error,log,,,"Unhandled event loop exception",1410238355745
+error,log,,,"Unhandled event loop exception",1410238358155
+error,log,,,"Unhandled event loop exception",1410238358204
+error,log,,,"Unhandled event loop exception",1410238361018
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238361151
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238362052
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.DebugLast",1410238362138
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238362143
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238362493
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238387826
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238410847
+executed,command,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.groovyScriptLaunchShortcut.run",1410238416436
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238425706
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238510549
+error,log,,,"Unhandled event loop exception",1410238516213
+error,log,,,"Unhandled event loop exception",1410238518861
+error,log,,,"Unhandled event loop exception",1410238519245
+error,log,,,"Unhandled event loop exception",1410238526136
+error,log,,,"Unhandled event loop exception",1410238529566
+error,log,,,"Unhandled event loop exception",1410238532219
+error,log,,,"Unhandled event loop exception",1410238533294
+error,log,,,"Unhandled event loop exception",1410238533304
+error,log,,,"Unhandled event loop exception",1410238535347
+error,log,,,"Unhandled event loop exception",1410238535384
+error,log,,,"Unhandled event loop exception",1410238536211
+error,log,,,"Unhandled event loop exception",1410238536385
+error,log,,,"Unhandled event loop exception",1410238538194
+error,log,,,"Unhandled event loop exception",1410238540183
+error,log,,,"Unhandled event loop exception",1410238540415
+error,log,,,"Unhandled event loop exception",1410238541964
+error,log,,,"Unhandled event loop exception",1410238541978
+error,log,,,"Unhandled event loop exception",1410238547943
+error,log,,,"Unhandled event loop exception",1410238548676
+error,log,,,"Unhandled event loop exception",1410238550499
+error,log,,,"Unhandled event loop exception",1410238551014
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238553069
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238554042
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238555411
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238561176
+executed,command,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.groovyScriptLaunchShortcut.run",1410238565093
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238565110
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238565372
+error,log,,,"Unhandled event loop exception",1410238573027
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238573901
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238577712
+error,log,,,"Unhandled event loop exception",1410238580464
+error,log,,,"Unhandled event loop exception",1410238580520
+executed,command,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.groovyScriptLaunchShortcut.run",1410238584996
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238585016
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238585149
+error,log,,,"Unhandled event loop exception",1410238595567
+error,log,,,"Unhandled event loop exception",1410238596941
+error,log,,,"Unhandled event loop exception",1410238597623
+error,log,,,"Unhandled event loop exception",1410238599158
+error,log,,,"Unhandled event loop exception",1410238600491
+error,log,,,"Unhandled event loop exception",1410238600575
+error,log,,,"Unhandled event loop exception",1410238601407
+error,log,,,"Unhandled event loop exception",1410238601613
+executed,command,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.groovyScriptLaunchShortcut.run",1410238613309
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238613317
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238613557
+error,log,,,"Unhandled event loop exception",1410238631228
+error,log,,,"Unhandled event loop exception",1410238633312
+error,log,,,"Unhandled event loop exception",1410238634041
+error,log,,,"Unhandled event loop exception",1410238635154
+error,log,,,"Unhandled event loop exception",1410238635181
+executed,command,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.groovyScriptLaunchShortcut.run",1410238639588
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238639605
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238639842
+error,log,,,"Unhandled event loop exception",1410238652129
+error,log,,,"Unhandled event loop exception",1410238655267
+error,log,,,"Unhandled event loop exception",1410238655358
+executed,command,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.groovyScriptLaunchShortcut.run",1410238658365
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238658379
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238658615
+error,log,,,"Unhandled event loop exception",1410238664452
+error,log,,,"Unhandled event loop exception",1410238666325
+error,log,,,"Unhandled event loop exception",1410238667464
+error,log,,,"Unhandled event loop exception",1410238668587
+error,log,,,"Unhandled event loop exception",1410238669749
+error,log,,,"Unhandled event loop exception",1410238669807
+error,log,,,"Unhandled event loop exception",1410238671448
+error,log,,,"Unhandled event loop exception",1410238673851
+error,log,,,"Unhandled event loop exception",1410238673870
+executed,command,org.codehaus.groovy.eclipse.ui,2.9.0.xx-201407151439-e37-RELEASE,"org.codehaus.groovy.eclipse.groovyScriptLaunchShortcut.run",1410238679383
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238679404
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238679549
+error,log,,,"Unhandled event loop exception",1410238684934
+error,log,,,"Unhandled event loop exception",1410238686667
+error,log,,,"Unhandled event loop exception",1410238686930
+error,log,,,"Unhandled event loop exception",1410238690923
+error,log,,,"Unhandled event loop exception",1410238694107
+error,log,,,"Unhandled event loop exception",1410238695277
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238696147
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238709859
+error,log,,,"Unhandled event loop exception",1410238711890
+error,log,,,"Unhandled event loop exception",1410238713505
+error,log,,,"Unhandled event loop exception",1410238713960
+error,log,,,"Unhandled event loop exception",1410238713966
+error,log,,,"Unhandled event loop exception",1410238713971
+error,log,,,"Unhandled event loop exception",1410238715267
+error,log,,,"Unhandled event loop exception",1410238715509
+error,log,,,"Unhandled event loop exception",1410238716953
+error,log,,,"Unhandled event loop exception",1410238717052
+error,log,,,"Unhandled event loop exception",1410238718070
+error,log,,,"Unhandled event loop exception",1410238718094
+error,log,,,"Unhandled event loop exception",1410238726163
+error,log,,,"Unhandled event loop exception",1410238727638
+error,log,,,"Unhandled event loop exception",1410238727707
+error,log,,,"Unhandled event loop exception",1410238736037
+error,log,,,"Unhandled event loop exception",1410238739293
+error,log,,,"Unhandled event loop exception",1410238740384
+error,log,,,"Unhandled event loop exception",1410238740676
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238743631
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238955465
+error,log,,,"Unhandled event loop exception",1410238957597
+error,log,,,"Unhandled event loop exception",1410238961497
+error,log,,,"Unhandled event loop exception",1410238963743
+error,log,,,"Unhandled event loop exception",1410238965920
+error,log,,,"Unhandled event loop exception",1410238966235
+error,log,,,"Unhandled event loop exception",1410238976703
+error,log,,,"Unhandled event loop exception",1410238976746
+error,log,,,"Unhandled event loop exception",1410238977450
+error,log,,,"Unhandled event loop exception",1410238980700
+error,log,,,"Unhandled event loop exception",1410238982619
+error,log,,,"Unhandled event loop exception",1410238985698
+error,log,,,"Unhandled event loop exception",1410238985773
+error,log,,,"Unhandled event loop exception",1410238987285
+error,log,,,"Unhandled event loop exception",1410238987292
+error,log,,,"Unhandled event loop exception",1410238990492
+error,log,,,"Unhandled event loop exception",1410238992008
+error,log,,,"Unhandled event loop exception",1410238992323
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238996084
+error,log,,,"Unhandled event loop exception",1410238996100
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238997090
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.DebugLast",1410238997145
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238997149
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410238997472
+error,log,,,"Unhandled event loop exception",1410239003541
+error,log,,,"Unhandled event loop exception",1410239004102
+error,log,,,"Unhandled event loop exception",1410239004960
+error,log,,,"Unhandled event loop exception",1410239005787
+error,log,,,"Unhandled event loop exception",1410239007370
+error,log,,,"Unhandled event loop exception",1410239007377
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410239008390
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410239009314
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.DebugLast",1410239009378
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410239009383
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410239009757
+error,log,,,"Unhandled event loop exception",1410239015897
+error,log,,,"Unhandled event loop exception",1410239015922
+error,log,,,"Unhandled event loop exception",1410239017800
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410239018170
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410239019614
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.DebugLast",1410239019688
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410239019698
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410239020047
+error,log,,,"Unhandled event loop exception",1410239023075
+error,log,,,"Unhandled event loop exception",1410239024444
+error,log,,,"Unhandled event loop exception",1410239024464
+error,log,,,"Unhandled event loop exception",1410239025669
+error,log,,,"Unhandled event loop exception",1410239026014
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410239026197
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410239027258
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.DebugLast",1410239027337
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410239027341
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410239027710
+error,log,,,"Unhandled event loop exception",1410239030555
+error,log,,,"Unhandled event loop exception",1410239038585
+error,log,,,"Unhandled event loop exception",1410239038908
+error,log,,,"Unhandled event loop exception",1410239041365
+error,log,,,"Unhandled event loop exception",1410239041441
+error,log,,,"Unhandled event loop exception",1410239046439
+error,log,,,"Unhandled event loop exception",1410239047993
+error,log,,,"Unhandled event loop exception",1410239048002
+error,log,,,"Unhandled event loop exception",1410239048976
+error,log,,,"Unhandled event loop exception",1410239049019
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410239057401
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1410239072578
+error,log,,,"Unhandled event loop exception",1410239074835
+error,log,,,"Unhandled event loop exception",1410239075556
+error,log,,,"Unhandled event loop exception",1410239076427
+error,log,,,"Unhandled event loop exception",1410239076577
+error,log,,,"Unhandled event loop exception",1410239078432
+error,log,,,"Unhandled event loop exception",1410239079323
+error,log,,,"Unhandled event loop exception",1410239080488
+error,log,,,"Unhandled event loop exception",1410239080600
+error,log,,,"Unhandled event loop exception",1410239081563
